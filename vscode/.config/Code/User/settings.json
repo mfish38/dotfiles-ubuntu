@@ -26,6 +26,7 @@
   "catppuccin.italicComments": false,
   "catppuccin.italicKeywords": false,
   "cSpell.userWords": [
+    "defu",
     "Dont",
     "ilike",
     "lucide",
@@ -47,8 +48,10 @@
     "rryellow",
     "sfdark",
     "sfnuxtlayer",
+    "Slideover",
     "vueuse"
   ],
+  "dbmlERDPreviewer.scrollDirection": "up-in",
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.autoClosingBrackets": "never",
   "editor.autoClosingQuotes": "never",
@@ -61,6 +64,7 @@
   "editor.formatOnSave": true,
   "editor.gotoLocation.multipleDefinitions": "goto",
   "editor.lineNumbers": "relative",
+  "editor.occurrencesHighlight": "multiFile",
   "editor.renderWhitespace": "none",
   "editor.rulers": [88],
   "editor.tokenColorCustomizations": {
@@ -106,6 +110,7 @@
   "git.confirmSync": false,
   "git.replaceTagsWhenPull": true,
   "leap.whiteSpacesOnlyMatchNewLine": true,
+  "terminal.integrated.scrollback": 10000,
   "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["<C-p>"],
@@ -185,7 +190,6 @@
     }
   },
   "workbench.colorTheme": "Matchalk",
-  "workbench.tree.indent": 16,
-  "workbench.tree.renderIndentGuides": "always",
-  "github.copilot.nextEditSuggestions.enabled": true
+  "workbench.tree.indent": 20,
+  "workbench.tree.renderIndentGuides": "always"
 }

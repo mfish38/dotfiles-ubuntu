@@ -369,6 +369,8 @@ ms-vscode.vscode-speech
 lucafalasco.matcha
 lucafalasco.matchalk
 github.vscode-github-actions
+ryu1kn.partial-diff
+bocovo.dbml-erd-visualizer
 "
 for extension in $extensions; do
     code --install-extension "$extension"
