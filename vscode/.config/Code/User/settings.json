@@ -110,6 +110,7 @@
   "git.confirmSync": false,
   "git.replaceTagsWhenPull": true,
   "leap.whiteSpacesOnlyMatchNewLine": true,
+  "nuxtr.vueFiles.firstTag": "script",
   "terminal.integrated.scrollback": 10000,
   "vim.normalModeKeyBindingsNonRecursive": [
     {
